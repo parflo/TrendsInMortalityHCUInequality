@@ -1,6 +1,6 @@
 # TrendsInMortalityHCUInequality
-This repository contains script files for manuscript by Flodin et al, submitted to PLOS medicine 2023. 
+This repository contains scripts for data preparation, analyses, and visualizations pressented in the manuscript by Flodin et al, submitted to PLOS medicine 2023. 
 
-SAS files used for data cleaning and dimension reduction. 
+-SAS files used for data cleaning and dimension reduction. 
 
-Statistical modeling and data visualization is done using Python. 
+-Python (jupyter noteboks) used for statistical modeling and data visualization. 
